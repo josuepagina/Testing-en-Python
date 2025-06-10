@@ -10,3 +10,5 @@ class CalculatorTest(unittest.TestCase):
     def test_resta(self):
         self.assertEqual(resta(10, 5), 5)
 
+   def test_multiplicacion(self):
+        self.assertEqual(multiplicacion(2, 5), 10)
