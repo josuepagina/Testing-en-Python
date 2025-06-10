@@ -1,6 +1,6 @@
 import unittest
 
-from src.calculator import suma, resta
+from src.calculator import suma, resta, multiplicacion
 
 class CalculatorTest(unittest.TestCase):
    
